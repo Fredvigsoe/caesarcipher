@@ -10,6 +10,7 @@ Man vælger i startmenuen om du vil encrypt, decrypt eller afslutte programmet v
 vil du blive bedt om at sætte en shift-værdi, for hvor meget teksten skal forskydes. 
 
 ## Eksempel
+```
 -----------------------------------------------------------------------------------
 Velkommen til Caesar Cipher, der kan kryptere og dekryptere en tekst efter dit valg
 -----------------------------------------------------------------------------------
@@ -24,9 +25,10 @@ Indtast tekst (op til 255 tegn): ABC DEF
 Resultat: CDE FGH
 
 --------------------------------------------
-
+```
 Resultatet stemmer overens med [Khan academy cipheren](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/pi/caesar-cipher-exploration)
 
+##QEH AXV OTJKT TUØKSHKX
 
 ## Compile & kør programmet
 
