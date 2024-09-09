@@ -9,7 +9,7 @@ Testet på Mac(ARM64)
 Man vælger i startmenuen om du vil encrypt, decrypt eller afslutte programmet ved hjælp af E/e, D/e eller Q/q. Når du har valgt enten encrypt eller decrypt,
 vil du blive bedt om at sætte en shift-værdi, for hvor meget teksten skal forskydes. 
 
-## Eksempel:
+## Eksempel
 -----------------------------------------------------------------------------------
 Velkommen til Caesar Cipher, der kan kryptere og dekryptere en tekst efter dit valg
 -----------------------------------------------------------------------------------
