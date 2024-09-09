@@ -28,7 +28,7 @@ Resultat: CDE FGH
 ```
 Resultatet stemmer overens med [Khan academy cipheren](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/pi/caesar-cipher-exploration)
 
-##QEH AXV OTJKT TUØKSHKX
+## QEH AXV OTJKT TUØKSHKX
 
 ## Compile & kør programmet
 
